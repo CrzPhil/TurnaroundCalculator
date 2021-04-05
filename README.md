@@ -1,6 +1,8 @@
 # TurnaroundCalculator
 CPU Scheduling Calculator.
 
-**ONLY** for Round Robin
+calculator.py -> **Round Robin**
+
+fcfs.py -> **First Come First Served**
 
 Calculate average turnaround time of 2-3 processes with 0 wait time.
